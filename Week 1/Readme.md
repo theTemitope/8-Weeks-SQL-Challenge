@@ -7,9 +7,9 @@ He plans on using these insights to help him decide whether he should expand the
 Additionally he needs help to generate some basic datasets so his team can easily inspect the data without needing to use SQL.
 
 ## Objectives
-- Help Danny understand the different type of customers he has, their preferences, their visiting patterns and how much money they spend on each meal
-- Help Danny determine if the feedback from the first report clearly alligns with the existing customer loyalty program
-- Help Danny figure out a new loyalty program and compare it with the existing loyalty program
+- Help Danny understand what menu item his customers prefers the most and the least.
+- Help Danny understand how much money his customers have to spend on menu items and if the current price favours their needs.
+- Help Danny determine the changes in purchases of his loyal customer before and after the customer loyalty program
 - Help Danny create a database where he can easily store his customers data and retrieve them for future analysis purposes
 
 ## Data Source
